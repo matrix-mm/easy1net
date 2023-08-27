@@ -205,11 +205,11 @@ a.menu-link {
   font-size: 36px;
   text-transform: uppercase;
   font-weight: 800;
-  color: #fff;
+  color: #df1a1a;
 }
 .main-header .logo a em {
   font-style: normal;
-  color: var(--secondary);
+  color: green;
 }
 
 .main-menu {
@@ -357,7 +357,7 @@ a.menu-link {
   font-size: 64px;
   text-transform: uppercase;
   font-weight: 800;
-  color: #fff;
+  color: #df1a1a;
   letter-spacing: 1px;
 }
 
@@ -372,7 +372,7 @@ a.menu-link {
 
 .main-banner .caption h2 em {
   font-style: normal;
-  color: var(--secondary);
+  color: green;
   font-weight: 900;
 }
 
